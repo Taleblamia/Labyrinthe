@@ -62,7 +62,7 @@ Affichage des chemins explorés et solutions possibles.
 
 
 ## ✍️ Auteur
-GHABI Malek
+TALEB Lamia
 
 Ce projet a été réalisé dans le cadre du cours de Mini-Projet, L1 Informatique.
 
